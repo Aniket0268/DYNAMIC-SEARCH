@@ -38,7 +38,7 @@ public class EligibilityDtlsEntity {
 	private String holderName;
 	@Column(name="HOLDER_SSN")
 	private Long holderSsn;
-
+private String nnn;
 
 	
 
