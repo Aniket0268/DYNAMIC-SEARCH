@@ -39,7 +39,7 @@ public class EligibilityDtlsEntity {
 	@Column(name="HOLDER_SSN")
 	private Long holderSsn;
 private String nnn;
-
+private String pcheck;
 	
 
 }
