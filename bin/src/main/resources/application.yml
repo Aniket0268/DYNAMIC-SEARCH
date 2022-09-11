@@ -8,6 +8,6 @@ spring:
     properties:
       hibernate:
         show_sql: true
-    defer-datasource-initialization: false
+    defer-datasource-initialization: true
 server:
   port: 9090
