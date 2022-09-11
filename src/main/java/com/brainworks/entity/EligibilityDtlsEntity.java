@@ -39,8 +39,13 @@ public class EligibilityDtlsEntity {
 	@Column(name="HOLDER_SSN")
 	private Long holderSsn;
 private String nnn;
+<<<<<<< HEAD
 private String n;
 
+=======
+private String pcheck;
+	private String scheck;
+>>>>>>> b1519a90838a7f9b4ab41e390a7e51898fa41043
 	
 
 }
