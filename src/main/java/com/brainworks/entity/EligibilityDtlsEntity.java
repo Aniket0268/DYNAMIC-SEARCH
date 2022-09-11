@@ -40,6 +40,7 @@ public class EligibilityDtlsEntity {
 	private Long holderSsn;
 private String nnn;
 private String pcheck;
+	private String scheck;
 	
 
 }
